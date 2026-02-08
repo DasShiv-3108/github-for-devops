@@ -4,3 +4,8 @@ git add
 git rm --cached testing.py
 git add .
 git commit -m "testing files"
+git remote -v
+git remote add origin https://github.com/DasShiv-3108/github-for-devops.git
+git push origin master
+git remote -v
+git remote -v
